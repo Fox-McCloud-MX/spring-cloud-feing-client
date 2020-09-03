@@ -1,2 +1,2 @@
-# Gradle Spring Boot Template
-Gradle Spring Boot Template
+# Spring Cloud Feing Client
+Spring Boot project with Spring Cloid Feing Client example service.
